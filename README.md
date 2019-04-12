@@ -12,5 +12,5 @@ The following figures show the ROC plots for the validation and test splits with
 ![Figure](roc_valid_da_auc0p878.png)
 ![Figure](roc_test_da_auc0p881.png)
 
-AUC of 0.881 is much better than the pneumonia AUC of 0.768 in the Stanford Chexnet paper(https://arxiv.org/pdf/1711.05225.pdf)
+AUC of 0.881 is much better than the pneumonia AUC of 0.768 in the Stanford Chexnet paper (https://arxiv.org/pdf/1711.05225.pdf)
 
